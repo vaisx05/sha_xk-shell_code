@@ -1,8 +1,11 @@
-<h1 align="center">
- <img src="images/malware_development_3.jpg" />
-</h1>
-
-# mal-dev untitled
+<p align="center">
+  <a href="https://github.com/vaisx05">
+    <picture>
+        <img src="images/malware_development_3.jpg" />
+    </picture>
+    <h1 align="center">mal-dev untitled</h1>
+  </a>
+</p>
 
 ## `👋` "Step into the realm of malware exploration with open arms!"
 
