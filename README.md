@@ -1,3 +1,6 @@
+<h1 align="center">
+ <img src="images/malware_development_3.jpg" />
+</h1>
 # mal-dev untitled
 ## `👋` "Step into the realm of malware exploration with open arms!"
 
