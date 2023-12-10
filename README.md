@@ -1,8 +1,6 @@
 <p align="center">
   <a href="https://github.com/vaisx05">
-    <picture>
         <img src="images/malware_development_3.jpg" />
-    </picture>
     <h1 align="center">mal-dev untitled</h1>
   </a>
 </p>
