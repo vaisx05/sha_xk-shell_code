@@ -24,8 +24,8 @@ I have a love-hate relationship with those simple programs that print patterns o
 
 ## `🏃` HOW TO RUN:
 
-**STEP 1:** Clone the repo to your local storage.
-**STEP 2:** Disable your systems's Windows Defenders before running this script.
+**STEP 1:** Clone the repo to your local storage.<br>
+**STEP 2:** Disable your systems's Windows Defenders before running this script.<br>
 **STEP 3:** Open CMD and type .\sha_xk.exe <PID>.
 
 ## `🛑` DISCLAIMER
