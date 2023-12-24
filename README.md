@@ -22,6 +22,12 @@ I have a love-hate relationship with those simple programs that print patterns o
 - `⚪` [NTDLL Magic]
 - `⚪` [Full NTDLL Implementation]
 
+## `` HOW TO RUN:
+
+STEP 1: Clone the repo to your local storage.
+STEP 2: Disable your systems's Windows Defenders before running this script.
+STEP 3: Open CMD and type .\sha_xk.exe <PID>.
+
 ## `🛑` DISCLAIMER
 
 Clearly, the stuff in this repository is all about learning, not mischief. Run these codes in a super-protected place, and it's like setting off a firework of alarms. Just to be super clear, I'm all about good vibes, not causing trouble with these programs. 
